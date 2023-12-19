@@ -1,0 +1,4 @@
+/home/cesardr1/project0/out/CMakeFiles/a.out.app.dir
+/home/cesardr1/project0/out/CMakeFiles/a.out.tests.dir
+/home/cesardr1/project0/out/CMakeFiles/edit_cache.dir
+/home/cesardr1/project0/out/CMakeFiles/rebuild_cache.dir
